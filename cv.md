@@ -5,7 +5,7 @@
 ## Contact info
 
 ### Address 
-Belarus, Minsk
+Belarus, Minsk,220042.
 ### Phone
 +375 (29) 583-62-69
 ### E-mail
